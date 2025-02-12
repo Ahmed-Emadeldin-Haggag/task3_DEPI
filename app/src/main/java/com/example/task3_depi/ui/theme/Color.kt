@@ -1,4 +1,4 @@
-package com.example.githubreposappdepiround2.ui.theme
+package com.example.task3_depi.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

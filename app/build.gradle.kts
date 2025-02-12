@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.githubreposappdepiround2"
+    namespace = "com.example.task3_DEPI"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.githubreposappdepiround2"
+        applicationId = "com.example.task3_DEPI"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
