@@ -24,7 +24,7 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.githubreposappdepiround2.R
+import com.example.task3_DEPI.R
 import com.example.task3_depi.ui.theme.Task3_DEPITheme
 
 @Composable
